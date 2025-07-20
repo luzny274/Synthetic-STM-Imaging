@@ -2,7 +2,6 @@
 
 ## Environment Setup
 For Nvidia hardware:
-
 ```conda env create -f environment__CUDA.yml ```
 
 For CPU only:
