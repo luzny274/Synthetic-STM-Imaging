@@ -54,7 +54,7 @@ streamlit run gui_sample_gen.py
 Make sure your Conda environment is activated before launching the GUI.
 
 ### Examples
-1000 generated samples can be found in the `Sample_Generator/WSe2_dataset` folder. 100000 oof such samples were used for training the U-Net model
+1000 generated samples can be found in the `Sample_Generator/WSe2_dataset` folder. 100000 of such samples were used for training the U-Net model
 
 ---
 
