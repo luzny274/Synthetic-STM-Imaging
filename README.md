@@ -19,13 +19,6 @@ conda env create -f environment__CUDA.yml
 ```bash
 conda env create -f environment__CPU_only.yml
 ```
-
-After installation, activate the environment:
-
-```bash
-conda activate synthetic-stm
-```
-
 ---
 
 ## WSe₂ Sample Generation
