@@ -1,7 +1,7 @@
 
 call get_simulation_name.bat
 
-set sample_count=2000
+set sample_count=100000
 
 set step_sample_count=100
 
