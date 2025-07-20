@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository provides tools for generating synthetic Scanning Tunneling Microscopy (STM) images of WSe₂ samples using a simulation framework. It includes GPU-accelerated and CPU-compatible environments, dataset generation scripts, and a Streamlit-based GUI for customizing simulation parameters.
+This repository provides tools for generating synthetic STM images of WSe₂ samples for ML tasks, and an example of training a U-Net model for defect localization.
 
 ---
 
